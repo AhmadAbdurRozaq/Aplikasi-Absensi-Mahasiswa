@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826325147634",
+    "project_id": "absensi-mahasiswa-61c0b",
+    "storage_bucket": "absensi-mahasiswa-61c0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826325147634:android:840f88313293a31e00956b",
+        "android_client_info": {
+          "package_name": "com.absensimahasiswa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxsSJhRJIhjetYiLlMlFiuU-I2Mj_HWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
